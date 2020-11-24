@@ -1,6 +1,8 @@
 Servlet Sample [![Build Status](https://travis-ci.org/WASdev/sample.servlet.svg?branch=master)](https://travis-ci.org/WASdev/sample.servlet)
 ==============
 
+**This repository is no longer being maintained and has been archived. It is left for reference and available for use as-is with the advisory that it depends old dependencies which may have security vulnerabilties.**
+
 This project contains a simple Servlet application.
 
 Download [sample.servlet.war](https://jitpack.io/com/github/WASdev/sample.servlet/2.1.0/sample.servlet-2.1.0.war).
